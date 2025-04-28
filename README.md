@@ -1,3 +1,3 @@
 # hello-wolrd
-print "こんにちわ"
+hi
 This repository is for practicing the GitHub Flow
